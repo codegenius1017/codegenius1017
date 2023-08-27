@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: I'm Professional Web / Mobile / Blockchain / DevOps Developer.</h1>
+<h1 align="left" id="macropower-title">:wave: I'm a Web / Mobile / Blockchain / DevOps Expert.</h1>
 <p align="center">
    <img align="right" style="width:500px;" src="https://github.com/charles0830/charles0830/blob/main/assets/Right_Side.gif" />
    <img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Full-Stack%20Web%20Developer;8%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
