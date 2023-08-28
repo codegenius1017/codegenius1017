@@ -30,6 +30,7 @@
          src="https://github-profile-trophy.vercel.app/?username=codegenius1017&theme=matrix&no-bg=true&no-frame=true&row=1&column=7&title=MultiLanguage,Commits,Followers,Repositories,Issues,Organizations,Stars">
  </div>
  <div align="center">  
-   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codegenius1017&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+   <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=codegenius1017&theme=tokyonight" />
+   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codegenius1017&theme=tokyonight" />
  </div>
 
