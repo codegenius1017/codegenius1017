@@ -31,6 +31,6 @@
  </div>
  <div align="center">  
    <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=codegenius1017&theme=tokyonight" />
-   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codegenius1017&theme=tokyonight" />
+   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codegenius1017&theme=tokyonight&PAT_1" />
  </div>
 
