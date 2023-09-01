@@ -33,8 +33,8 @@
          src="https://github-profile-trophy.vercel.app/?username=codegenius1017&theme=matrix&no-bg=true&no-frame=true&row=1&column=7&title=MultiLanguage,Commits,Followers,Repositories,Issues,Organizations,Stars">
  </div>
  <div align="center">  
-   <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=codegenius1017&&theme=gotham" />
-   <img height="195px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codegenius1017&langs_count=10&layout=compact&hide_border=true&theme=gotham&PAT_1" />
+   <img height="195px" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codegenius1017&&theme=gotham" />
+   <img height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codegenius1017&langs_count=10&layout=compact&hide_border=true&theme=gotham&PAT_1" />
     <img src="https://github.com/abbasbayat0/abbasbayat0/assets/120355368/7cede4fe-7088-4b76-9e28-f9e42dac3205">
  </div>
 
