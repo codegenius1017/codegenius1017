@@ -1,4 +1,3 @@
-<img src="https://github.com/abbasbayat0/abbasbayat0/assets/120355368/0f6f2fb1-82ff-4024-812a-c62a33a887f9">
 <h1 align="left" id="macropower-title">:wave: I'm a Web / Mobile / Blockchain / DevOps Expert.</h1>
 <p align="center">
    <img align="right" style="width:500px;" src="https://github.com/charles0830/charles0830/blob/main/assets/Right_Side.gif" />
@@ -37,4 +36,4 @@
    <img height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codegenius1017&langs_count=10&layout=compact&hide_border=true&theme=gotham&PAT_1" />
     <img src="https://github.com/abbasbayat0/abbasbayat0/assets/120355368/7cede4fe-7088-4b76-9e28-f9e42dac3205">
  </div>
-
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
