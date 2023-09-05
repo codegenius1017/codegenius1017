@@ -38,4 +38,20 @@
    <img align="left" height="195px" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codegenius1017&&theme=gotham" />
     <img src="https://github.com/abbasbayat0/abbasbayat0/assets/120355368/7cede4fe-7088-4b76-9e28-f9e42dac3205">
  </div>
+ <div align="center">
+    <h2><a href="https://michael-espinoza.netlify.app/">
+    Contact Me Here!
+    </a></h2>
+    <div align="center">
+      <a href="https://t.me/tsgold8899">
+         <img src="https://user-images.githubusercontent.com/101947194/226695828-a2a6ee49-276f-4643-9fc4-8c72222c7006.svg" height="50" />
+      </a>&nbsp;&nbsp;&nbsp;
+      <a href="mailto:espinoza.michael1017@gmail.com">
+         <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="50">
+      </a>&nbsp;&nbsp;&nbsp;
+      <a href="https://join.skype.com/invite/KPJt1dbexdB7">
+         <img src='https://img.icons8.com/color/344/skype.png' height="50">
+      </a>
+    </div>
+ </div>
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
