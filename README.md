@@ -2,15 +2,15 @@
 <p align="center">
    <img align="right" style="width:500px;" src="https://github.com/charles0830/charles0830/blob/main/assets/Right_Side.gif" />
    <img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Full-Stack%20Web%20Developer;8%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
-   <h3 align="left">As a versatile developer with 8 years of experience, I specialize in Web, Mobile, Blockchain, and DevOps development. With a strong foundation in web technologies such as HTML, CSS, and JavaScript, I have the expertise to create robust and visually appealing web applications. I am experienced in frameworks like React, Angular, and Vue.js, allowing me to build responsive and user-friendly interfaces. <br>
+   <h3 align="left">As an experienced developer with expertise in Web, Mobile, Blockchain, and DevOps, I specialize in creating robust and visually appealing web applications. Proficient in HTML, CSS, and JavaScript, I excel in frameworks like React, Angular, and Vue.js, crafting responsive and user-friendly interfaces.<br>
     
-   In the mobile realm, I excel in developing applications for both iOS and Android platforms. Proficient in languages such as Swift, Kotlin, and JavaScript, I have a deep understanding of mobile frameworks like React Native and Flutter. I leverage these technologies to create native and cross-platform mobile apps that deliver exceptional user experiences.  <br>
+   In mobile development, I have a deep understanding of iOS and Android platforms, utilizing Swift, Kotlin, and JavaScript. With React Native and Flutter, I create native and cross-platform mobile apps that provide exceptional user experiences.<br>
     
-   Furthermore, I possess a solid understanding of blockchain technology and its applications. With expertise in languages like Solidity and tools like Truffle and Web3.js, I am capable of developing decentralized applications (DApps) and smart contracts on various blockchain platforms.  <br>
+   I possess solid knowledge of blockchain technology, including Solidity, Truffle, and Web3.js. This enables me to develop decentralized applications (DApps) and smart contracts on various blockchain platforms.<br>
     
-   In addition to my web and mobile skills, I am well-versed in DevOps practices. I have hands-on experience with tools like Docker, Kubernetes, Jenkins, and AWS, enabling me to build scalable and automated deployment pipelines. I am proficient in infrastructure-as-code frameworks like Terraform and possess strong troubleshooting and problem-solving abilities.  <br>
+   Furthermore, I am well-versed in DevOps practices, employing tools like Docker, Kubernetes, Jenkins, and AWS. Proficient in infrastructure-as-code frameworks like Terraform, I build scalable and automated deployment pipelines. Troubleshooting and problem-solving are among my strengths.<br>
     
-   With my multidisciplinary expertise, I bring a holistic approach to development projects. I am committed to delivering high-quality solutions that meet client requirements and industry best practices. My adaptability, attention to detail, and continuous learning mindset make me a valuable asset to any development team.</h3>
+   With a multidisciplinary approach, I am dedicated to delivering high-quality solutions aligned with client requirements and industry best practices. Adaptability, attention to detail, and continuous learning drive my success as a valuable asset to any development team.</h3>
 </p>
 <img src="https://github.com/abbasbayat0/abbasbayat0/assets/120355368/7cede4fe-7088-4b76-9e28-f9e42dac3205">
 <h2>## ⚡ Technologies</h2>
