@@ -28,14 +28,14 @@
  </p>
  <p align="center">
  <div align="center">
-    <img
+    <img width="24%"
          src="https://github-profile-trophy.vercel.app/?username=ken-b4u&theme=matrix&no-bg=true&no-frame=true&column=2&title=LongTimeUser,AncientUser">
-     <img
+    <img width="72%"
          src="https://github-profile-trophy.vercel.app/?username=codegenius1017&theme=matrix&no-bg=true&no-frame=true&column=6&title=MultiLanguage,Commits,Followers,Repositories,Organizations,Stars">
  </div>
  <div align="center">  
-   <img height="195px" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codegenius1017&&theme=gotham" />
-   <img height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codegenius1017&langs_count=10&layout=compact&hide_border=true&theme=gotham&PAT_1" />
+    <img align="right" height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codegenius1017&langs_count=10&layout=compact&hide_border=true&theme=gotham&PAT_1" />
+   <img align="left" height="195px" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codegenius1017&&theme=gotham" />
     <img src="https://github.com/abbasbayat0/abbasbayat0/assets/120355368/7cede4fe-7088-4b76-9e28-f9e42dac3205">
  </div>
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
