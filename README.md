@@ -54,4 +54,11 @@
       </a>
     </div>
  </div>
+ <div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/kritical0613/count.svg" />  
+</p>
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
