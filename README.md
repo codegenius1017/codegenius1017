@@ -1,4 +1,20 @@
 <h1 align="left" id="macropower-title">:wave: I'm a Web / Mobile / Blockchain / DevOps Expert.</h1>
+<div align="center">
+    <h2><a href="https://michael-espinoza.netlify.app/">
+    Contact Me Here!
+    </a></h2>
+    <div align="center">
+      <a href="https://t.me/tsgold8899">
+         <img src="https://user-images.githubusercontent.com/101947194/226695828-a2a6ee49-276f-4643-9fc4-8c72222c7006.svg" height="50" />
+      </a>&nbsp;&nbsp;&nbsp;
+      <a href="mailto:espinoza.michael1017@gmail.com">
+         <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="50">
+      </a>&nbsp;&nbsp;&nbsp;
+      <a href="https://join.skype.com/invite/KPJt1dbexdB7">
+         <img src='https://img.icons8.com/color/344/skype.png' height="50">
+      </a>
+    </div>
+ </div>
 <p align="center">
    <img align="right" style="width:500px;" src="https://github.com/charles0830/charles0830/blob/main/assets/Right_Side.gif" />
    <img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Full-Stack%20Web%20Developer;8%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
@@ -31,22 +47,6 @@ I also have solid expertise in blockchain technology, including Solidity, Truffl
     <img align="right" height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codegenius1017&langs_count=10&layout=compact&hide_border=true&theme=gotham&PAT_1" />
    <img align="left" height="195px" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codegenius1017&&theme=gotham" />
     <img src="https://github.com/abbasbayat0/abbasbayat0/assets/120355368/7cede4fe-7088-4b76-9e28-f9e42dac3205">
- </div>
- <div align="center">
-    <h2><a href="https://michael-espinoza.netlify.app/">
-    Contact Me Here!
-    </a></h2>
-    <div align="center">
-      <a href="https://t.me/tsgold8899">
-         <img src="https://user-images.githubusercontent.com/101947194/226695828-a2a6ee49-276f-4643-9fc4-8c72222c7006.svg" height="50" />
-      </a>&nbsp;&nbsp;&nbsp;
-      <a href="mailto:espinoza.michael1017@gmail.com">
-         <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="50">
-      </a>&nbsp;&nbsp;&nbsp;
-      <a href="https://join.skype.com/invite/KPJt1dbexdB7">
-         <img src='https://img.icons8.com/color/344/skype.png' height="50">
-      </a>
-    </div>
  </div>
  <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
